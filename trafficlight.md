@@ -1,3 +1,6 @@
+March 2 2020, Traffic light code
+
+```.c
 void setup()
 {
   pinMode(13, OUTPUT);
@@ -20,6 +23,7 @@ void loop()
   digitalWrite(11, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
+```
 
 Image of the circuit is below 
 
