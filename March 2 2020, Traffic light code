@@ -23,5 +23,5 @@ void loop()
 
 Image of the circuit is below 
 
-.png
-
+![circuit](Circuit.png)
+Figure 1 shows the circuti drawn with Aduino
